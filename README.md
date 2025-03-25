@@ -29,7 +29,7 @@ To install DevCore, follow these simple steps:
 
 2️⃣ Make the project directory:
 ```bash
- mkdir ~/Coding/Projects
+ mkdir -p ~/Coding/Projects
 ```
 
 3️⃣ Run the installation script in ~/:
